@@ -1,9 +1,8 @@
 /** Author: Henrique Reis Neves
  * SID: 100313047
  * 
- * Lab11: Problem Solving
- * Lab11.cpp file
- * Last Update: 2022-07-31
+ * Knight Minimal Moves
+ * Last Update: 2022-08-01
 **/
 
 #include <iostream>
