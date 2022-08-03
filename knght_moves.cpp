@@ -1,8 +1,8 @@
 /** Author: Henrique Reis Neves
- * SID: 100313047
  * 
  * Knight Minimal Moves
- * Last Update: 2022-08-01
+ * knight_moves.cpp
+ * Last Update: 2022-08-03
 **/
 
 #include <iostream>
